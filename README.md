@@ -1,3 +1,3 @@
 # treehouse-test
 
-Test repo
+Test repo - checkout my repo
